@@ -1,1 +1,1 @@
-# FullStack_Open-
+# Repository with the exercises 
